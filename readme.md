@@ -29,6 +29,4 @@ The dataset typically contains:
 ## 🛠️ How to Run
 
 1. Clone the repository or download the files.
-2. Install required packages:
-   ```bash
-   pip install -r requirements.txt
+
